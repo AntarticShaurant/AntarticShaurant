@@ -1,1 +1,1 @@
-![AntarticShaurant Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AntarticShaurant&theme=blue)
+![AntarticShaurant's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntarticShaurant&show_icons=true&theme=radical)
