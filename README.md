@@ -3,5 +3,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AntarticShaurant&no-background=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 I use [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)], btw
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=AntarticShaurant)
